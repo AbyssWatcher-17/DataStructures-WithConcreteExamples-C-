@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1624915437 source:c:\users\yavuz\onedrive\masaüstü\deneme\simplelinkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"Linkedlist.h"
+
+1624915341 c:\users\yavuz\onedrive\masaüstü\deneme\simplelinkedlist\linkedlist.h
+
+1624915581 source:c:\users\yavuz\onedrive\masaüstü\deneme\simplelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Linkedlist.h"
+

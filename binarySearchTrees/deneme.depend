@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624909410 source:c:\users\yavuz\onedrive\masaüstü\deneme\deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1624910895 source:c:\users\yavuz\onedrive\masaüstü\deneme\deneme\file.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1624910895 c:\users\yavuz\onedrive\masaüstü\deneme\deneme\main.h
+

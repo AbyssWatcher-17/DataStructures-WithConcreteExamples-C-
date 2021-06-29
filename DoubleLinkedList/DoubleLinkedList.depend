@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624991506 source:c:\users\yavuz\onedrive\masaüstü\deneme\doublelinkedlist\doublelinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"DoubleLinkedList.h"
+
+1624991485 c:\users\yavuz\onedrive\masaüstü\deneme\doublelinkedlist\doublelinkedlist.h
+
