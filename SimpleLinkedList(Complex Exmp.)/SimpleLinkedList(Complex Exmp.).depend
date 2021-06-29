@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1624916619 source:c:\users\yavuz\onedrive\masaüstü\deneme\simplelinkedlist(complex exmp.)\linkedlistcomp.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	"LinkedlistComp.h"
-
-1624916777 c:\users\yavuz\onedrive\masaüstü\deneme\simplelinkedlist(complex exmp.)\linkedlistcomp.h
-
