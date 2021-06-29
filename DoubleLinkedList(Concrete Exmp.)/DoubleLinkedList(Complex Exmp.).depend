@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1625003785 source:c:\users\yavuz\onedrive\masaüstü\deneme\doublelinkedlist(complex exmp.)\doublelinkedlistcomp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DoubleLinkedlistComp.h"
+
+1625003589 c:\users\yavuz\onedrive\masaüstü\deneme\doublelinkedlist(complex exmp.)\doublelinkedlistcomp.h
+
+1625003708 source:c:\users\yavuz\onedrive\masaüstü\deneme\doublelinkedlist(complex exmp.)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DoubleLinkedListComp.h"
+
